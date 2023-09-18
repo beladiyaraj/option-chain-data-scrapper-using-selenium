@@ -1,0 +1,7 @@
+{
+  "base_url": "https://web.quantsapp.com/option-chain/",
+  "optionType": "BANKNIFTY",
+  "expiryDates": ["20-Sep-2023", "28-Sep-2023", "04-Oct-2023", "11-Oct-2023"],
+  "output_filename": "desired_output.xlsx",
+  "chrome_driver_path": "chromedriver_win32/chromedriver.exe"
+}
